@@ -1,2 +1,2 @@
-# moodle-enrol_self_check_in
+# moodle-enrol_selfcheckin
 Let people register AND enrol to a course at the same time
